@@ -1,0 +1,37 @@
+MAP – Atividade 1 
+Victor Pontes Nóbrega
+
+1.  Análise: Nessa etapa é feita a escolha das ferramentas que melhor atendem as necessidades do projeto, qual arquitetura é a mais adequada, a
+metodologia aplicada. 
+	projeto: É toda a parte de desenvolvimento do software.
+
+2. Vantagens na utilização de POO: abstração, encapsulamento, reutilização de códigos, polimorfismo, ganho de padrões na modelagem de um ambiente;
+
+3. Os motivos para levantar requisitos funcionais são para entender melhor o que o sistema deve fazer e como deve fazer, para o mesmo ser implementado 
+corretamente. Deve-se ter: identificador, nome, módulo, data de criação, autor, data da última alteração, autor da alteração, versão, prioridade e
+descrição.
+
+
+5. É uma interface que estabelece um comportamento para as estruturas de sequência;
+
+7. Return: É usado em métodos quando é necessario dá uma respota a quem chamou o método.
+   Throw: É usa para interromper o fluxo de operação, por conta de algo inesperado ou uma operação invalida;
+
+9. Vantagem do polimorfismo: Garantir um funcionamento definido para objetos que herdam ou implementam classes superiores. 
+   Desvantagem do polimorfismo: Precisa de um alto nivel de abstração de quem o faz.
+
+10. Interfaces serve como um contrato, dizendo o que necessita ter mas não como vai ser executado. Já classes abstratas podem definir os comportamentos
+e força classes filhas a modificar seu comportamento.
+
+11. Herança de tipo usada interfaces enquanto herança de implementação é usada classes normais ou abstratas;
+
+12. Forte acoplamento significa que uma classe tem comportamentos que não deveriam pertencer a ela, dessa forma é facil achar um comportamento na 
+mesma, mas com isso se aumenta a complexidade e dificulta manutenções.
+
+13. A logica do sistema pode ser escondida quando você consegue decompor o mesmo em partes menores.
+
+14. Reponsabilidade de classe é o que ela deve fazer e como fazer, minimizamos esse número para deixa-la mais simples e melhor para entendimentos,
+se colocarmos muitas responsabilidades em uma classe, ela pode se tornar um gargalo. 
+
+15. Porque herança acopla e limita as formas que você pode pensar em como utilizar os papeis, já a composição o desenvolvedor possui mais libertade
+e consegue diminuit o acoplamento.
