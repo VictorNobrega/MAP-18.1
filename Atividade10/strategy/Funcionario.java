@@ -26,11 +26,11 @@ public class Funcionario {
 			break;
 		case LIDER:
 			estrategiaDeGratificacao = new GratificacaoLider();
-			cargo = DBA;
+			cargo = LIDER;
 			break;
 		case GERENTE:
 			estrategiaDeGratificacao = new GratificacaoGerente();
-			cargo = DBA;
+			cargo = GERENTE;
 			break;
 		default:
 			throw new RuntimeException("Cargo não encontrado :/");
