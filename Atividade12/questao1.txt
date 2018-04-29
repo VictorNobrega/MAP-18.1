@@ -1,0 +1,4 @@
+Atividade 12 - Template Method
+
+1. Porque é preciso definir a forma de ordenar e reproduzir as musicas. Sim, extraindo o que é repetido no codigo
+e delegando a responsabilidade de fazer essa ordenação a outra classe, como sugere o Template Method.  
