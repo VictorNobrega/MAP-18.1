@@ -1,0 +1,5 @@
+A ideia do Event Aggregator é simplificar o funcionamento do Observer quando esse possui muitos objetos. 
+Pois a cada mudança em um objeto, o cliente teria que localizar em que ocorreu a mudança e qual foi essa 
+mudança. O Event Aggregator serve para que os clientes se preocupem em observar apenas um canto, tendo 
+esse o objetivo de informar aos clientes a modificação e em qual objeto foi realizado, dessa forma 
+facilitando saber qual objeto deve ser informado se alguma mudança acontecer.

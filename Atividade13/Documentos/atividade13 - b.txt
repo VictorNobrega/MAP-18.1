@@ -1,0 +1,1 @@
+Poderíamos utilizar interface em vez de uma classe abstrata, instanciando o objeto na classe que a implementa.
